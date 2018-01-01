@@ -1,0 +1,8 @@
+# Hustle Quotes
+
+I'm not entirely sure how this list originally came to be, but instead of
+removing from a buried file on my VPS I'm pushing to Github. For a quick
+bit of motivation in the future perhaps have a scan of the quotes!
+
+* Do send some pull requests with more quotes (or missing sources!)
+* Available at `quotes.falkus.co`
